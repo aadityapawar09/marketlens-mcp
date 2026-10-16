@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "marketlens": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\HP\\Documents\\marketlens-mcp",
+        "run",
+        "python",
+        "-m",
+        "marketlens_mcp.server"
+      ]
+    }
+  }
+}
