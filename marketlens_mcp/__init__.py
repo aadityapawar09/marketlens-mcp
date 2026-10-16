@@ -1,1 +1,0 @@
-"""MarketLens MCP server."""
